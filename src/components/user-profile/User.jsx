@@ -5,7 +5,7 @@ import { ButtonSaveChanges, ButtonSubscribe } from "../utils/utils";
 import { useAuth, upload } from "../login/FirebaseConfig";
 import axios from "axios";
 import Navbar from "../nav/navbar";
-import Footer from "../footer/footer";
+import Footer from "../footer/Footer";
 import { useSelector } from "react-redux";
 
 function validate(input) {

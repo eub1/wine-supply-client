@@ -14,7 +14,7 @@ import Card from "../card/Card";
 import { CatalogoContainer, TitleCategory } from "./CatalogoStyle";
 import { State } from "../../redux/reducer/index";
 import Navbar from "../nav/navbar";
-import Footer from "../footer/footer";
+import Footer from "../footer/Footer";
 import CarritoFull from "../carritoFull/CarritoFull";
 import { useNavigate } from "react-router-dom";
 import LoginModal from "../login-modal/LoginModal";
