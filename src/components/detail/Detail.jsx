@@ -20,7 +20,7 @@ import {
 } from "./DetailStyled";
 import { ButtonBuyNow, ButtonAddToCart } from "../utils/utils";
 import Navbar from "../nav/navbar";
-import Footer from "../Footer/Footer";
+import Footer from "../footer/footer";
 import CarritoFull from "../carritoFull/CarritoFull";
 import { addStorageItem } from "../catalogo/CatalogueProducts";
 import LoginModal from "../login-modal/LoginModal";
